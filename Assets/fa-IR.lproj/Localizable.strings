@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DataReader
+
+  Created by m.jelodar on 11/9/19.
+  Copyright © 2019 mozhgan. All rights reserved.
+*/
+
+"PULL_TO_REFRESH" = "به روز رسانی";
+"DELIVERY_LIST_TITLE" = "لیست";
+"ALERT" = "خطا!";
+"OK" = "باشه";
+"THERE_IS_NO_INTERNET_CONNECTION" = "";
+"THERE_IS_NO_ITEM_TO_DISPLAY" = "";
